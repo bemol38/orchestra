@@ -3,7 +3,11 @@
     {
       "id": 1,
       "name": "Benoit Mollard"
-    }
+    },
+    {
+      "id": 2,
+      "name": "Christian Wehrle"
+    },
   ],
   "profile": {
     "name": "bemol38"
