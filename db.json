@@ -1,8 +1,8 @@
 {
-  "posts": [
+  "patients": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Benoit Mollard"
     }
   ],
   "profile": {
